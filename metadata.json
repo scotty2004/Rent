@@ -1,0 +1,6 @@
+{
+  "name": "Zim Accommodation",
+  "description": "Rental marketplace connecting landlords and tenants across Zimbabwe with search, listings management, EcoCash/InnBucks/Omari payments, and dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
